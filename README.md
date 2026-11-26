@@ -27,6 +27,13 @@ Monitor websites for changes and get notified instantly.
 
 **Perfect for**: E-commerce monitoring, API tracking, content updates, government sites
 
+### [sitewatcher/](./sitewatcher/) - Website Uptime Monitoring
+
+Keep a history of uptime and response times and get alerts before TLS certificates or domains expire.
+
+- **Access**: http://127.0.0.1:8080
+- **Quick start**: `cd sitewatcher && docker compose run --rm setup && docker compose up -d`
+
 ---
 
 ## 🚀 Quick Start
